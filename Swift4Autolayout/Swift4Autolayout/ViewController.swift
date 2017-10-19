@@ -31,7 +31,7 @@ class ViewController: UIViewController {
         textView.isScrollEnabled = false
         return textView
     }()
-    
+     
     override func viewDidLoad() {
         super.viewDidLoad()
         
